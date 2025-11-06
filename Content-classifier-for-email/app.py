@@ -126,9 +126,10 @@ st.markdown(
     """
     <hr>
     <div style='text-align: center; font-size: 15px; color:#cccccc;'>
-        Devloped ❤️ by <b>Prajwal S, </b> using Streamlit & SVM<br>
+        Devloped ❤️ by <b>Prajwal S</b> using Streamlit & SVM<br>
     </div>
     """,
     unsafe_allow_html=True,
 )
+
 
